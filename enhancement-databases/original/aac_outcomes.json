@@ -1,0 +1,42 @@
+[
+  {
+    "animal_type": "Dog",
+    "breed": "Labrador Retriever",
+    "age_upon_outcome": "2 years",
+    "outcome_type": "Adoption",
+    "location_lat": 30.2672,
+    "location_long": -97.7431
+  },
+  {
+    "animal_type": "Cat",
+    "breed": "Siamese",
+    "age_upon_outcome": "1 year",
+    "outcome_type": "Transfer",
+    "location_lat": 30.285,
+    "location_long": -97.733
+  },
+  {
+    "animal_type": "Dog",
+    "breed": "German Shepherd",
+    "age_upon_outcome": "3 years",
+    "outcome_type": "Return to Owner",
+    "location_lat": 30.25,
+    "location_long": -97.75
+  },
+  {
+    "animal_type": "Cat",
+    "breed": "Tabby",
+    "age_upon_outcome": "4 months",
+    "outcome_type": "Adoption",
+    "location_lat": 30.26,
+    "location_long": -97.74
+  },
+  {
+    "animal_type": "Dog",
+    "breed": "Pit Bull",
+    "age_upon_outcome": "6 months",
+    "outcome_type": "Adoption",
+    "location_lat": 30.275,
+    "location_long": -97.76
+  }
+]
